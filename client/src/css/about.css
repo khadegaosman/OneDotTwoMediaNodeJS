@@ -1,0 +1,230 @@
+
+#imageHeader{
+  max-width: 100%;
+  display: block;
+}
+
+.header_parent{
+  position: relative;
+
+}
+.showSl{
+  display: none;
+}
+.about {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+
+}
+.header_parent .about{
+  position: absolute;
+  left: 20%;
+  top: 13%;
+  right: 80%;
+}
+.header_whiteBlock{
+  width: 30%;
+  height:30%;
+  background-color: #FFFFFF;
+
+}
+.header_redBlock{
+   width: 35%;
+  height:21.50%;
+  background-color: #D22727;
+}
+.openQuotion {
+  width: 45px;
+}
+.closeQuotion {
+  width: 60px;
+}
+.header_parent .closeQuotion{
+  position: absolute;
+  left: 43.50%;
+  top: 60%;
+
+}
+.header_parent .openQuotion {
+  position: absolute;
+  left: 22%;
+  top: 33.50%;
+  right: 80%;
+}
+.header_parent .header_whiteBlock{
+  position: absolute;
+  left: 20%;
+  top: 35%;
+  right: 80%;
+}
+.header_parent .header_redBlock {
+  position: absolute;
+  left: 48%;
+  top: 47%;
+
+}
+.para_white {
+  font-size: 20.50px;
+  font-family: "Lato";
+  color: black;
+  font-weight: bold;
+  margin-left: 10%;
+  margin-right: 25%;
+  margin-top: 15%;
+  text-align: justify-all;
+  -moz-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -webkit-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -ms-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+}
+.para_red {
+  font-size: 12.50px;
+  font-family: "Lato";
+  color: #FFFFFF;
+  text-align: justify-all;
+  margin-top: 6.50%;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.gray_block {
+  background-color: #231f20;
+  width: 100%;
+  height: 18%;
+}
+.header_parent .gray_block {
+  position: absolute;
+  top: 85%;
+}
+.para_grayBlock {
+  font-size: 34.50px;
+  font-family: "Lato";
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 4%;
+}
+.leftButton {
+  width: 100px;
+  margin-top:95px;
+  cursor: pointer;
+}
+.rightButton {
+  width: 100px;
+  margin-top:95px;
+  cursor: pointer;
+}
+.header_parent .leftButton {
+  position: absolute;
+  top: 37%;
+  left:0px;
+}
+.header_parent .rightButton {
+  position: absolute;
+  top: 37%;
+  right: 0px;
+}
+.aboutNav {
+  width: 100%;
+}
+.header_parent .aboutNav{
+  position: absolute;
+  top: 0%;
+}
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#row1_image {
+  height: ;
+}
+.rectangle{
+  margin-bottom: 150px;
+}
+.blue_logo {
+  max-width: 30%;
+  margin-top: 15.70%;
+}
+#pioneering{
+  font-size: 13.79px;
+  font-family: "Myriad Pro";
+  color: rgb( 35, 31, 32 );
+  text-align: justify;
+  text-align-last: center;
+
+}
+
+#Software_company {
+  font-size: 28px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  font-weight: bold;
+  text-align: center;
+}
+
+#dotmedia {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb( 198, 37, 40 );
+  font-weight: bold;
+  text-align: center;
+}
+#Video_production {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  font-weight: bold;
+  text-align: center;
+}
+.para_row2{
+  font-size: 13.80px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  text-align: center;
+  -moz-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -webkit-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -ms-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  max-width: 80%;
+  margin:auto;
+}
+.para_row3{
+  font-size: 15px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  text-align: center;
+  max-width: 100%;
+}
+
+.container_row2 {
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+.padd_row2{
+  padding-left: 0px;
+  padding-right: 0;
+}
+.row2_background{
+  background-color:#EEEEEE;
+
+}
+.row2_image{
+  padding-left: 20px;
+  height: 630px;
+  max-width: 102.70%;
+}
+.Media_logo{
+  width: 142px;
+}
+#logo_row2 {
+  margin-top: 100px;
+}
+.button_visit_the_website {
+  background-color: rgb( 197, 36, 41 );
+  width: 112px;
+  height: 35px;
+  border: none;
+  color: white;
+  display: inline-block;
+  font-size: 12px;
+}

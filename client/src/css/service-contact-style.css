@@ -1,0 +1,441 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 1440px;
+}
+.imageHeader{
+  margin: 0 auto;
+  width: 1920px;
+  height: 1080px;
+  display: block;
+}
+
+
+.imageStyle{
+   margin-right: -15px;
+   margin-left: -15px;
+
+}
+.film{
+
+  font-size: 48px;
+  font-family: "Myriad Pro";
+  color: rgb( 35, 31, 32 );
+  text-align: left;
+ 
+}
+.film_para{
+
+  font-size: 20.315px;
+  font-family: "Myriad Pro";
+  color: rgb( 35, 31, 32 );
+  line-height: 1.5;
+  -moz-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -webkit-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -ms-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  
+  width: 517.812px;
+  height: 80.263px;
+
+}
+.rec{
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+.h_one{
+  font-size: 55px;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+}
+.service_block{
+  background-color: rgb( 255, 255, 255 );
+
+    height: 300px;
+    margin: 5px;
+  
+
+
+}
+.blue-image{
+  margin:37px;
+  width: 110px;
+  height:110px;
+}
+.para{
+  font-size: 15.315px;
+  
+    height: 60.263px;
+  font-family: "Lato";
+    color: rgb( 35, 31, 32 );
+    line-height: 1.5;
+    text-align: center;
+}
+.micro{
+  max-height: 100%;
+  margin-left: 100px;
+}
+.empty{
+  height: 160px;
+}
+
+
+
+.about_img{
+  width: 104px;
+  cursor: pointer;
+}
+.home_img{
+  width: 100px;
+  cursor: pointer;
+}
+.service_parent .about_img{
+  position: absolute;
+  top: 370px;
+  left: 0px;
+  right:5%;
+}
+.service_parent .home_img{
+  position: absolute;
+  top: 370px;
+  right:0%;
+
+}
+.service_child{
+
+}
+
+.service_row{
+  width: 80%;
+}
+.first-row{
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.service_parent .service_child{
+   position: absolute;
+   top: 100px;
+   left: 18%;
+
+}
+
+.phone_box{
+     width:100%;
+     margin: 0 auto;
+/*     background-image: url("../images/phone_red.png");
+*/     background-size: 100% 100%;
+    background-repeat:no-repeat;
+    height: 650px;
+    position: relative;
+
+}
+.phone_box_child{
+  width: 100%;
+}
+.phone_box .phone_box_child{
+position: absolute;
+top:10%;
+}
+
+
+.omg{
+  width: 100%;
+  height: 600px;
+  position: relative;
+
+}
+.emptycol{
+  height: 600px;
+}
+
+.hey{
+  height: 500px;
+  margin: 0 auto;
+}
+
+.contact_us{
+
+  font-size: 52px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  font-weight: bold;
+  margin-bottom:150px; 
+  
+}
+.red_dot{
+  margin-top:30px;
+}
+.contact_block{
+height: 215px;
+  box-shadow: 0px 0px 20px 0px rgb( 0, 0, 0 );
+
+
+}
+#background_red{
+  background-color: rgb( 197, 36, 41 );
+  
+  
+}
+.get_in_block{
+  margin:20px auto;
+}
+
+
+
+
+#white{
+ 
+color: rgb(255,255,255);
+
+
+}
+.get_in{
+  font-family: "Lato";
+  font-weight: bold;
+  text-align: left;
+  max-width: 100%;
+  margin-top: 10%;
+
+
+
+}
+.get_in_details{
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  text-align: left;
+  line-height: 1.438;
+  max-width: 100%;
+  padding-left: 20px;
+
+
+}
+.location_details{
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.438;
+  text-align: left;
+  margin-top:20px; 
+  width: 100%;
+  height: 60px;
+
+}
+#background_white{
+  background-color:  rgb(255,255,255);
+
+}
+#red{
+  color: rgb( 197, 36, 41 );
+}
+#abu_zabi{
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb( 35, 31, 32 );
+  line-height: 1.438;
+  text-align: left;
+  max-width: 100%;
+  width: 230px;
+  height: 60px;
+
+
+}
+.social_hover{
+  margin-right: 10px;
+}
+.social_hover:hover{
+  color: rgb( 197, 36, 41 );
+
+}
+.social_hover a{
+  color: black;
+}
+.contact_form_row{
+  height: auto;
+  background-color: rgb( 255, 255, 255 );
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(218, 205, 205);
+  width: 100%;
+  margin:0 auto;
+
+}
+.contact_form_header{
+  font-size: 48px;
+  font-family: "Lato";
+  color: rgb( 197, 36, 41 );
+  font-weight: bold;
+  margin-bottom: 50px;
+
+ 
+}
+
+
+
+
+.contact_form{
+margin: 100px;
+}
+
+
+.contact_text_field{
+  margin: 5px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid ;
+  border-color: rgb(218, 205, 205);
+
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-color: #fff;
+
+}
+.contact_form_input_row{
+  width: 100%;
+}
+#messeage{
+  margin: 5px;
+  margin-top:0px; 
+  resize: none;
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  border: 1px solid ;
+  border-color: rgb(218, 205, 205);
+
+
+}
+#label{
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  margin: 5px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  font-weight: bold;
+  text-align: left;
+  margin-bottom:0px; 
+
+}
+/*.send_btn{
+  float: right;
+  width: 100%;
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 0;
+  font-family: "Lato";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  background-color: rgb( 197, 36, 41 );
+}*/
+.map_row{
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+
+}
+.map_img{
+
+}
+
+.location{
+  display:inline-block; 
+  height: 30%;
+  width: 20%;
+  background-color: rgb( 197, 36, 41 );
+  box-shadow: 0px 0px 32px 0px rgb( 0, 0, 0 );
+
+}
+.map_row .location{
+  position: absolute;
+  top: 20%;
+bottom: 80%;
+  left: 18%;
+  right: 82%
+}
+.map_row img{
+width: 100%;
+height:auto;
+}
+.location_row{
+  
+}
+.location-with-margin{
+  margin: 20px;
+  max-width: 100%;
+
+
+}
+.send-btn {
+  background-color: rgb( 197, 36, 41 );
+  width: 130px;
+  height: 35px;
+  border: none;
+  color: white;
+  display: inline-block;
+  font-size: 12px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb( 35, 31, 32 );
+  font-weight: bold;
+  text-align: left;
+  padding-bottom: 10px;
+
+ 
+}
+.plus-temp{
+  margin: 10px;
+  height: 40px;
+max-height: 100%;
+max-width: 100%;
+}
+
+.new_row{
+  width: 100%;
+}
+.get_in_block a{
+  color:  black ;
+  text-decoration: none;
+
+}
+.service_parent{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+}
+.nav_row{
+  width: 100%
+}
+.phone_box .nav_row{
+  position: absolute;
+  top:0%;
+}
+
+.service_parent .nav_row{
+  position: absolute;
+  top: 0%;
+}
+
+

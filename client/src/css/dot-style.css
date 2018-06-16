@@ -1,0 +1,84 @@
+body {
+  
+  background-color: #f3f3f3;
+
+}
+
+html, body {
+    height: 100%;
+}
+
+
+
+.row-striped:nth-of-type(odd){
+  background-color: #f3f3f3;
+}
+
+.row-striped:nth-of-type(even){
+  background-color: #ffffff;
+}
+
+
+.threeDots{
+  float: left;
+  padding-right: 20px;
+  margin-top: 35px;
+}
+
+
+
+.paragraph-dot{
+  width: 500px;
+  padding-top: 25%;
+  padding-left: 100px;
+
+}
+.paragraphRectangle{
+  padding-left: 100px;
+}
+
+#image{
+  max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.h1-dot{
+  width: 400;
+  padding-left: 220px;
+}
+
+.with-padding {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  min-height: 100%;
+}
+
+
+.imgs{
+    margin-top: 90px;
+    margin-left: 200px;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+
+.URLlink{
+   /* margin-left: 120px;*/
+    color: grey;
+    margin-top: -145px; 
+    padding: 40px;
+}
+
+.URLhead{
+    color: #d12b2b;
+}
+
+.URLbackground{
+    width: 600px;
+    height: 150px;
+    background-color: #ffffff;
+    margin-top: 50px;
+}

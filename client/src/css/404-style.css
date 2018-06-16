@@ -1,0 +1,64 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 1440px;
+}
+
+.imageHeader{
+  margin: 0 auto;
+  width: 1920px;
+  height: 1080px;
+  display: block;
+}
+
+.imageStyle{
+   margin-right: -15px;
+   margin-left: -15px;
+
+}
+
+.paragraph{
+  color: black;
+  text-align: center;
+  font-size: 70px;
+  font-family: "Lato";
+  position: absolute;
+  left: 225.134px;
+  top: 257.63px;
+}
+
+.inparagraph{
+  text-align: center;
+  color: grey;
+  font-size: 12px;
+  font-family: "Lato";
+  position: absolute;
+  left: 145.134px;
+  top: 307.63px;
+}
+
+._404 {
+  font-size: 70px;
+  font-family: "Lato";
+  color: rgb(35, 31, 32);
+  font-weight: bold;
+  line-height: 1.2;
+  -moz-transform: matrix( 4.85552414670795,0,0,4.8607735208251,0,0);
+  -webkit-transform: matrix( 4.85552414670795,0,0,4.8607735208251,0,0);
+  -ms-transform: matrix( 4.85552414670795,0,0,4.8607735208251,0,0);
+  position: absolute;
+  left: 250.289px;
+  top: 105.8px;
+  z-index: 4;
+}
+
+.img{
+  margin-left: 150px;
+  margin-top: -20px;
+  width:33%
+}
+
+.error{
+  margin-top: 100px;
+}

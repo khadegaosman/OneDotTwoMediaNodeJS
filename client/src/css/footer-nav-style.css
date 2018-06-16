@@ -1,0 +1,215 @@
+.background{
+    background-color: #f3f3f3;
+}
+
+.nav-bar{
+    background: transparent;
+    position: absolute;
+    padding-bottom: 5px;
+    top: 0%;
+    width:100%;
+    height: auto;
+    z-index: 1;
+}
+.contact-nav-background{
+    background:#E8E8E8;
+
+
+
+}
+.nav-bar img{
+height: 62px;
+}
+.contact_nav{
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.bar_btn{
+    background-color: #231f20; /* Blue background */
+    border: none; /* Remove borders */
+    color: #000000; /* White text */
+    padding: 20px 20px; /* Some padding */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    margin-top: 5px;
+}
+
+.search_btn{
+    background-color: white; /* Blue background */
+    border: none; /* Remove borders */
+    color: black; /* White text */
+    padding: 20px 20px; /* Some padding */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    margin-top: 5px;
+
+}
+.search_input {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+.search_input :focus {
+    width: 50%;
+}
+
+.footer{
+    padding:100px;
+    background-color:#231f20;
+    color:white;
+
+}
+
+.logo-footer{
+    background-color: white;
+    padding:20px;
+}
+
+.home-btn-footer{
+
+    padding-top: 100px;
+    background: linear-gradient(to bottom, #231f20 35%,#231f20 35%,#231f20 35%,#231f20 35%,#c52429 35%,#c52429 35%,#c52429 35%);
+
+}
+
+
+.img-logo-footer{
+    display:block;
+    margin:auto;
+}
+
+.about-us-footer{
+    padding-bottom: 10px;
+    background: #c52429;
+    max-width: 100%;
+
+}
+
+.about-us-with-margin-footer{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.about-us-p-footer{
+    display: inline-block;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+
+.row-footer{
+    display: flex
+}
+
+
+.width-footer{
+    max-width: 100%;
+}
+
+.top-btn-footer {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #c52429; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    font-size: 18px; /* Increase font size */
+}
+
+.top-btn-footer:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+    cursor: pointer; /* Mouse pointer on hover */
+
+}
+
+.logo{
+    height: 62px;
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+        direction: rtl;
+
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    -webkit-box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+    z-index: 5 !important;
+
+    top: 100%;
+    right: 0%;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+<<<<<<< HEAD:onedottowmediareact/src/css/footer-nav-style.css
+=======
+}
+
+a{
+    text-decoration: none !important;
+}
+a:hover{
+    text-decoration: none !important;
+>>>>>>> 3e6732c62e4111a052a0a1e5ee457804a4e4e1b7:onedottowmediareact/src/css/footer-nav-style.css
+}

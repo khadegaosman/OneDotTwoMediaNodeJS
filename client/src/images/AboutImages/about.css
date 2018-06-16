@@ -1,0 +1,18 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 1440px;
+}
+.imageHeader{
+  margin: 0 auto;
+  width: 1920px;
+  height: 1080px;
+  display: block;
+}
+
+
+.imageStyle{
+  nax-width: 100%;
+  display: block;
+}
